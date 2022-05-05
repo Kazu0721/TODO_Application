@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TODO Application</string>
+    <string name="create_todo">Create</string>
+    <string name="todo_title">Title</string>
+    <string name="todo_detail">Contents</string>
+    <string name="loading">Loading</string>
+    <string name="delete_todo">Contents</string>
+    <string name="delete_message">Would you delete this todo?</string>
+    <string name="edit_todo">Edit </string>
+    <string name="delete_ok">DELETE </string>
+    <string name="delete_cancel">CANCEL </string>
+</resources>
